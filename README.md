@@ -1,0 +1,2 @@
+# high_dimensional_data_analytics
+analysis of high-dimensional structured data including profiles, images, and other types of functional data using statistical machine learning. A variety of topics such as functional data analysis, image processing, multilinear algebra and tensor analysis, and regularization in high-dimensional regression and its applications including low rank and sparse learning is covered. Optimization methods commonly used in statistical modeling and machine learning and their computational aspects are also discussed.
